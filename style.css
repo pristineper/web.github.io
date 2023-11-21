@@ -42,7 +42,7 @@ body::after{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 1200px;
+    min-width: 500px;
     flex-wrap: wrap;
     z-index: 1;
 }
